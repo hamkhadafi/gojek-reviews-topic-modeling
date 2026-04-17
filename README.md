@@ -1,8 +1,8 @@
 # 📊 Topic Modeling Ulasan Pengguna Aplikasi Gojek
 ### Menggunakan Latent Dirichlet Allocation (LDA)
 
-**Mata Kuliah:** SCST603106 — Analisis Data Tidak Terstruktur  
-**Program Studi:** Statistika, FMIPA Universitas Indonesia  
+**Mata Kuliah:** SCST603217 — Analisis Data Tidak Terstruktur  
+**Program Studi:** Program Studi Statistika, Departemen Matematika, FMIPA Universitas Indonesia  
 **Nama:** Ilham Khadafi  
 **NIM:** 2306260952  
 **Kelas:** A  
