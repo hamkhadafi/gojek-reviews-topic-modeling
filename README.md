@@ -13,7 +13,7 @@
 
 ```
 📦 UTS_TopicModeling_Gojek/
-├── 📄 README.md                                          ← Dokumen ini
+├── 📄 README.md                                         ← Dokumen ini
 ├── 📊 GojekAppReviewV4.0.0-V4.9.3_Cleaned.csv           ← Dataset ulasan Gojek
 ├── 📓 Ilham_Khadafi_UTS_AndatTidakTerstruktur.ipynb     ← Kode analisis (Jupyter Notebook)
 └── 📝 Ilham_Khadafi_2306260952_A_UTS.pdf                ← Laporan UTS
