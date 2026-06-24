@@ -1,0 +1,15 @@
+# Jupyter Notebook & Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (kalau nanti lu pake)
+venv/
+env/
+.env
+
+# OS generated files & Metadata
+.DS_Store
+Thumbs.db
+*Zone.Identifier
